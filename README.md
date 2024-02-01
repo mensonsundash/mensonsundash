@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @menso431
+- 👋 Hi, I’m @mensonsundash
 - 👀 I’m interested in developing ideas
 - 🌱 I’m currently learning NodeJs
 - 💞️ I’m looking to collaborate on developers community
