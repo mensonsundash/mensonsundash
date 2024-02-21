@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mensonsundash
 - 👀 I’m interested in developing ideas
-- 🌱 I’m currently working in NodeJs, Specialize in MEAN stack
+- 🌱 I’m currently working in NodeJs, Specialize in modified MEAN stack with Sequelize (MySql) for more complex relational database
 - 💞️ I’m looking to collaborate on developers community
 - 📫 How to reach me menson.sundash@gmail.com
 
