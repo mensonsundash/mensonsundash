@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @mensonsundash
-- 👀 I’m interested in developing ideas
-- 🌱 I’m currently working in NodeJs, Specialize in modified MEAN stack with Sequelize (MySql) for more complex relational database
-- 💞️ I’m looking to collaborate on developers community
+JavaScript developer, end to end — from browser to server. I recently completed the IOD Bootcamp where I built full-stack apps using JavaScript across the whole stack.
+
+I love turning ideas into working products. Whether it's a REST API, a real-time chat app, or an e-commerce frontend — I ship it in JS.
+
+Currently looking for my first dev role in Sydney. Let's build something.
+
 - 📫 How to reach me menson.sundash@gmail.com
 
 <!---
